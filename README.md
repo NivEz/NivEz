@@ -7,7 +7,7 @@ I mainly develop web apps, automations and bots.
 
 👀 I want to keep learning and evolve
 
-📝 I regularly write articles on www.linkedin.com/in/nivezra/
+📝 I regularly write articles on linkedin.com/in/nivezra/
 
 💞️ I’m looking to collaborate with people with a good mindset
 
