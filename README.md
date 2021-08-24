@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Niv
 ## And I'm a Full Stack developer
 
-Here you can find some of my publicl projects.
+Here you can find some of my public projects.
 
 I mainly develop web apps, automations and bots.
 
