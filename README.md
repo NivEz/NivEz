@@ -13,6 +13,8 @@ I mainly develop web apps, automations and bots.
 
 📫 You can reach me at niv.cyber@gmail.com
 
+
+angular css3 dart firebase flutter html5 javascript mongodb mssql nodejs quasar sass typescript vuejs vuetify
 <!---
 NivEz/NivEz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
