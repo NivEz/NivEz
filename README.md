@@ -9,7 +9,7 @@ I mainly develop web apps, automations and bots.
 
 💞️ I’m looking to collaborate with people with a good mindset
 
-📫 You can reach me at niv.cyber@gmail.com
+📫 You can reach me at [Telegram](https://t.me/NivEz1)
 
 
 <!---
