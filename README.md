@@ -7,8 +7,6 @@ I mainly develop web apps, automations and bots.
 
 👀 I want to keep learning and evolve
 
-📝 I regularly write articles on [linkedin.com/in/nivezra](https://www.linkedin.com/in/nivezra/)
-
 💞️ I’m looking to collaborate with people with a good mindset
 
 📫 You can reach me at niv.cyber@gmail.com
