@@ -1,15 +1,14 @@
-# 👋 Hi, I’m Niv
-## I'm a Full Stack developer
+# 👋 Welcome to my Github profile
 
-Here you can find some of my public projects.
+I'm Niv and I'm a Software engineer.
 
 I mainly develop web apps, automations and bots.
 
-👀 I want to keep learning and evolve
+Here you can find some of my public projects.
 
-💞️ I’m looking to collaborate with people with a good mindset
+I will be happy to collaborate.
 
-📫 You can reach me at [Telegram](https://t.me/NivEz1)
+📫 You can reach me at [Telegram](https://t.me/NivEz1) or at [Linkedin](https://www.linkedin.com/in/nivezra/)
 
 <br/>
 
