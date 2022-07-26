@@ -5,7 +5,7 @@
 
 ## 👋🏻 Welcome to my Github profile
 
-* I'm Niv and I'm a Software engineer, full stack developer and devOps engineer.
+* 🥳 I'm Niv and I'm a Software engineer, full stack developer and devOps engineer.
 
 * 😎 You can call me <b>Enginiv</b> or <b>< div ></b>.
   
