@@ -1,14 +1,23 @@
-# 👋 Welcome to my Github profile
 
-I'm Niv and I'm a Software engineer.
+<div align="center">
+  <img src="https://c.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif">
+</div>
 
-I mainly develop web apps, automations and bots.
+## 👋🏻 Welcome to my Github profile
 
-Here you can find some of my public projects.
+* I'm Niv and I'm a Software engineer, full stack developer and devOps engineer.
 
-I will be happy to collaborate.
+* 😎 You can call me <b>Enginiv</b> or <b>< div ></b>.
+  
+* 🚀 Currently working at Startup Booster.
 
-📫 You can reach me at [Telegram](https://t.me/NivEz1) or at [Linkedin](https://www.linkedin.com/in/nivezra/)
+* 👾 I develop variety of things like web apps, automations, bots and even IoT.
+
+* 👨🏾‍🔬 Here you can find some of my public projects.
+
+* 🤝 I will be happy to collaborate.
+
+* 📫 You can reach me at [Telegram](https://t.me/NivEz1) or at [Linkedin](https://www.linkedin.com/in/nivezra/)
 
 <br/>
 
@@ -30,7 +39,7 @@ I will be happy to collaborate.
   
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  width="26px" align="left"/> <git>
 
-
+  
 <!---
 NivEz/NivEz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
