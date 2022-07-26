@@ -22,7 +22,7 @@
 <br/>
 
 ### 🛠️ Languages and Tools:
-<hr/>
+<hr />
 
 #### Frontend:
 
@@ -41,13 +41,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-
+<img src="https://avatars.githubusercontent.com/u/213792?s=280&v=4" title="RavenDB" alt="RavenDB" width="40" height="40"/>&nbsp;
+  
 
 #### Cloud:
+  
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 #### DevOps:
+  
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -58,10 +61,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 
+<br>
+  
+### Stats
+<hr />
 
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivez&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
