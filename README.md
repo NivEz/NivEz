@@ -11,7 +11,7 @@
   
 * 🚀 Currently working at Startup Booster.
 
-* 👾 I develop variety of things like web apps, automations, bots and even IoT.
+* 👾 I develop variety of things like web apps, automations, bots and even IoT and devOps.
 
 * 👨🏾‍🔬 Here you can find some of my public projects.
 
