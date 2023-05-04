@@ -43,7 +43,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/213792?s=280&v=4" title="RavenDB" alt="RavenDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 
 #### Cloud:
   
