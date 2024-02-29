@@ -9,7 +9,7 @@
 
 * 😎 You can call me <b>Enginiv</b> or <b>< div ></b>.
   
-* 🚀 Currently working at Startup Booster.
+* 🚀 Currently working at [Startup Booster](https://www.startupbooster.dev/).
 
 * 👾 I develop variety of things like web apps, DevOps, automations, bots and even IoT.
 
@@ -81,7 +81,7 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=NivEz)
   
 <!---
 NivEz/NivEz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
