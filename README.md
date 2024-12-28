@@ -5,11 +5,11 @@
 
 ## 👋🏻 Welcome to my Github profile
 
-* 🥳 I'm Niv and I'm a Software engineer, full stack developer and devOps engineer.
+* 🥳 I'm Niv, and I'm a Software Developer, DevOps Engineer, and Problem Solver.
 
 * 😎 You can call me <b>Enginiv</b> or <b>< div ></b>.
   
-* 🚀 Currently working at [Startup Booster](https://www.startupbooster.dev/).
+* 🚀 Currently working at [Lennar DigitalOps](https://www.lennar.com/).
 
 * 👾 I develop variety of things like web apps, DevOps, automations, bots and even IoT.
 
